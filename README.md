@@ -39,8 +39,8 @@ please use readRDS to load those files (as intended in the code)
 Samples from the Analysis 
 -------------------
 
-![](https://github.com/Digital-Footprints/dfcp_team4-team4/blob/b1708128fdaf41ac59f5bacb2f05ee41b3e42444/_plots/s2_sentiment%20across%20brands%20and%20dictionaries.png)
+![](https://github.com/aleksejhoffaerber/textualvaccines/blob/bc2c6f349b08d8d6a47a605f943acaec4a93def5/_plots/s2_sentiment%20across%20brands%20and%20dictionaries.png)
 
-![](https://github.com/Digital-Footprints/dfcp_team4-team4/blob/b1708128fdaf41ac59f5bacb2f05ee41b3e42444/_plots/s2_sentiment%20across%20brands%20and%20dictionaries.png)
+![](https://github.com/aleksejhoffaerber/textualvaccines/blob/988920b50b7de8227183b96e1eacf4ed2b2a351d/_plots/top1_topic%20behavior.png)
 
-![](https://github.com/Digital-Footprints/dfcp_team4-team4/blob/b1708128fdaf41ac59f5bacb2f05ee41b3e42444/_plots/s2_sentiment%20across%20brands%20and%20dictionaries.png)
+![](https://github.com/aleksejhoffaerber/textualvaccines/blob/988920b50b7de8227183b96e1eacf4ed2b2a351d/_plots/top4_correlation%20between%20brand%20sentiment%20and%20number%20of%20tweets%20per%20topic.png)
