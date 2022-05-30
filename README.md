@@ -1,4 +1,4 @@
-ublic Sentiment of COVID-19 Vaccines launched by Different Brands 
+Public Sentiment of COVID-19 Vaccines launched by Different Brands 
 -------------------
 
 Core Content
